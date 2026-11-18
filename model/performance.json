@@ -1,0 +1,57 @@
+{
+    "accuracy": 0.9133235294117648,
+    "precision": 0.8989156352901101,
+    "recall": 0.9313823529411764,
+    "f1_score": 0.9148610388859999,
+    "confusion_matrix": [
+        [
+            30439,
+            3561
+        ],
+        [
+            2333,
+            31667
+        ]
+    ],
+    "training_records": 272000,
+    "testing_records": 68000,
+    "total_records": 340000,
+    "feature_names": [
+        "url_length",
+        "hostname_length",
+        "path_length",
+        "dot_count",
+        "hyphen_count",
+        "at_count",
+        "question_count",
+        "equal_count",
+        "ampersand_count",
+        "slash_count",
+        "digit_count",
+        "https",
+        "has_ip",
+        "subdomain_count",
+        "suspicious_word_count",
+        "percent_count",
+        "underscore_count"
+    ],
+    "feature_importance": [
+        0.014765889604676638,
+        0.07717535989499877,
+        0.02099471270332561,
+        0.018787905447305273,
+        0.07373849739862562,
+        0.0027976671804812326,
+        0.003912097564709918,
+        0.01249031643387973,
+        0.001270409258085566,
+        0.02076166775217234,
+        0.039603521059517435,
+        0.5837431722760081,
+        0.014253040908188993,
+        0.01727886664330007,
+        0.08253049896377139,
+        0.006012732438142842,
+        0.009883644472810533
+    ]
+}
