@@ -1,5 +1,7 @@
 # 🛡️ PhishGuard – Phishing URL Detection Using Machine Learning
 
+🚀 **Live Demo:** [Click here to use PhishGuard](https://phishguardkjv.streamlit.app/)
+
 ## 📌 About the Project
 
 PhishGuard is a machine learning-based web application designed to identify potentially phishing URLs and distinguish them from legitimate URLs.
